@@ -9,8 +9,8 @@ class Program
     {
         string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
         string projectRoot = Path.GetFullPath(Path.Combine(baseDirectory, @"..\..\.."));
-        string excelDir = Path.Combine(projectRoot, "Excel Files");
-        string csvDirectory = Path.Combine(projectRoot, "Csv Files");
+        string excelDir = Path.Combine(projectRoot, "ExcelFiles");
+        string csvDirectory = Path.Combine(projectRoot, "CsvFiles");
 
         Directory.CreateDirectory(excelDir);
         Directory.CreateDirectory(csvDirectory);
@@ -18,7 +18,7 @@ class Program
         Console.WriteLine("Excel folder" + excelDir);
         Console.WriteLine("Csv folder" + csvDirectory);
 
-        var excelFiles = Directory.GetFiles(excelDir,".xlsx");
+        var excelFiles = Directory.GetFiles(excelDir,"*.xlsx");
         if(excelFiles.Length == 0)
         {
             Console.WriteLine("no excel found in " + excelDir);
@@ -40,13 +40,14 @@ class Program
                     string line = string.Join(",", cells.Select(c => EscapeCsv(c.GetValue<string>())));
                     writer.WriteLine(line);
                 }
+                Console.WriteLine($"Conveerted {fileName}.xlsx -> {fileName}.csv");
             }
             catch(Exception ex)
             {
-                Console.WriteLine($"ERROR:{ex.Message}");
+                Console.WriteLine($"ERROR {excelPath}:{ex.Message}");
             }
+            Console.WriteLine("All Excel files processed ...");
         }
-
 
         static string EscapeCsv(string value)
         {

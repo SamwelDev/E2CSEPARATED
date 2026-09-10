@@ -1,0 +1,309 @@
+﻿Id,Name ,SwahiliName,IsActive,MinistryId,IsPublicSector
+1,Mfuko wa Hifadhi ya Jamii (ZSSF),Mfuko wa Hifadhi ya Jamii (ZSSF),1,26,1
+2,Bodi ya Shirika la Magazeti,Bodi ya Shirika la Magazeti,0,26,1
+3,Wakala wa Usajili wa Matukio ya Kijamii,Wakala wa Usajili wa Matukio ya Kijamii,1,26,1
+4,Baraza la Taasisi ya Utafiti wa Kilimo Zanzibar,Baraza la Taasisi ya Utafiti wa Kilimo Zanzibar,1,26,1
+5,"Wakala wa Chakula, Dawa na Vipodozi","Wakala wa Chakula, Dawa na Vipodozi",1,26,1
+6,Tume ya Mipango,Tume ya Mipango,1,26,1
+7,Baraza la Madaktari,Baraza la Madaktari,1,26,1
+8,Bodi ya Mamlaka ya Ununuzi na Uondoshaji wa Mali za Serikali,Bodi ya Mamlaka ya Ununuzi na Uondoshaji wa Mali za Serikali,1,26,1
+9,Mamlaka ya  Kukuza Vitega Uchumi (ZIPA),Mamlaka ya  Kukuza Vitega Uchumi (ZIPA),1,26,1
+10,Mamlaka ya Maji Zanzibar (ZAWA),Mamlaka ya Maji Zanzibar (ZAWA),1,24,1
+11,Ofisi ya Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali,Ofisi ya Mdhibiti na Mkaguzi Mkuu wa Hesabu za Serikali,1,1,1
+12,Mahkama,Mahkama,1,1,1
+13,Bodi ya Kudhibiti Kodi za Nyumba,Bodi ya Kudhibiti Kodi za Nyumba,1,11,1
+14,Baraza la Vijana,Baraza la Vijana,1,17,1
+15,Mamlaka ya Usafiri Baharini (ZMA),Mamlaka ya Usafiri Baharini (ZMA),1,13,1
+16,Baraza la Taifa la Michezo Zanzibar,Baraza la Taifa la Michezo Zanzibar,1,28,1
+17,Ofisi ya Mkaguzi Mkuu wa Ndani wa Hesabu za Serikali,Ofisi ya Mkaguzi Mkuu wa Ndani wa Hesabu za Serikali,1,23,1
+18,"Bodi ya Mamlaka ya Udhibiti, Utafutaji na Uchimbaji wa Mafuta na Gesi Asilia","Bodi ya Mamlaka ya Udhibiti, Utafutaji na Uchimbaji wa Mafuta na Gesi Asilia",1,33,1
+19,Baraza la Mitihani Zanzibar,Baraza la Mitihani Zanzibar,1,19,1
+20,Kampuni ya Uunganishaji Maudhui(ZMUX),Kampuni ya Uunganishaji Maudhui(ZMUX),1,26,1
+21,Kamisheni ya Utumishi wa Umma,Kamisheni ya Utumishi wa Umma,1,22,1
+22,Shirika la Utangazaji Zanzibar(ZBC),Shirika la Utangazaji Zanzibar(ZBC),1,26,1
+23,Taasisi ya Karume ya Sayansi na Teknolojia,Taasisi ya Karume ya Sayansi na Teknolojia,0,NULL,1
+24,Baraza la Maulamaa,Baraza la Maulamaa,1,22,1
+25,Baraza la Biashara la Zanzibar,Baraza la Biashara la Zanzibar,1,28,1
+26,Tume ya Ukimwi,Tume ya UKIMWI,0,NULL,1
+27,Tume ya Utangazaji,Tume ya Utangazaji,1,26,1
+28,Taasisi ya Utafiti wa Masuala ya Uvuvi na Mazao Baharini,Taasisi ya Utafiti wa Masuala ya Uvuvi na Mazao Baharini,1,33,1
+29,Halmashauri ya Wilaya ya Wete,Halmashauri ya Wilaya ya Wete,0,NULL,1
+30,Ofisi ya Mkurugenzi wa Mashtaka,Ofisi ya Mkurugenzi wa Mashtaka,1,22,1
+31,Tume ya Uchaguzi ya ZanzibarB,Tume ya Uchaguzi ya ZanzibarB,0,NULL,1
+32,Hospitali ya Rufaa ya Mnazi Mmoja,Hospitali ya Rufaa ya Mnazi Mmoja,1,5,1
+33,Tume ya Kurekebisha Sheria,Tume ya Kurekebisha Sheria,1,22,1
+34,Kikosi cha Valantia(KVZ),Kikosi cha Valantia(KVZ),1,16,1
+35,Chuo cha Utawala wa Umma (IPA),Chuo cha Utawala wa Umma (IPA),1,22,1
+36,Bodi ya Ushauri ya Mdhibiti na Mkaguzi Mkuu wa  Hesabu za Serikali,Bodi ya Ushauri ya Mdhibiti na Mkaguzi Mkuu wa  Hesabu za Serikali,1,NULL,1
+37,Chuo cha Mafunzo,Chuo cha Mafunzo,1,16,1
+38,Halmashauri ya Wilaya ya Kati,Halmashauri ya Wilaya ya Kati,1,16,1
+39,Tume ya Maadili ya Viongozi wa Umma,Tume ya Maadili ya Viongozi wa Umma,0,NULL,1
+40,Kamisheni ya Kazi,Kamisheni ya Kazi,1,21,1
+41,Bodi ya Wakurugenzi ya Mamlaka ya Usafiri Baharini(ZMA),Bodi ya Wakurugenzi ya Mamlaka ya Usafiri Baharini(ZMA),1,32,1
+42,Tume ya Uchaguzi ya Zanzibar,Tume ya Uchaguzi ya Zanzibar,1,24,1
+43,Bodi ya Mikopo ya Elimu ya juu Zanzibar,Bodi ya Mikopo ya Elimu ya juu Zanzibar,1,19,1
+44,Wakala wa Majengo ya Serikali,Wakala wa Majengo ya Serikali,1,29,1
+45,Taasisi ya Utafiti wa Kilimo Kizimbani,Taasisi ya Utafiti wa Kilimo Kizimbani,1,25,1
+46,Wakala wa Serikali Huduma za Matrekta na Zana za Kilimo,Wakala wa Serikali Huduma za Matrekta na Zana za Kilimo,1,25,1
+47,Bodi ya Shirika la Magazeti ya Serikali,Bodi ya Shirika la Magazeti ya Serikali,1,26,1
+48,Baraza la Mji Mkoani,Baraza la Mji Mkoani,1,16,1
+49,Shirika la BIMA Zanzibar ,Shirika la BIMA Zanzibar ,1,23,1
+50,Baraza la Usimamizi Mfumo wa Utoaji wa Leseni (WBV),Baraza la Usimamizi Mfumo wa Utoaji wa Leseni (WBV),0,28,1
+51,Baraza la Wauguzi na Wakunga,Baraza la Wauguzi na Wakunga,1,5,1
+52,Tume ya Utangazaji,Tume ya Utangazaji,0,NULL,1
+53,Kamisheni ya Kukabiliana na Maafa,Kamisheni ya Kukabiliana na Maafa,1,2,1
+54,Chuo Kikuu cha Taifa cha Zanzibar (SUZA),Chuo Kikuu cha Taifa cha Zanzibar (SUZA),1,19,1
+55,Wakala wa Maendeleo ya Viwanda Vidogo Vidogo na vya Kati(SMIDA),Wakala wa Maendeleo ya Viwanda Vidogo Vidogo na vya Kati(SMIDA),1,28,1
+56,Tume ya Utumishi Serikalini,Tume ya Utumishi Serikalini,1,22,1
+57,Kamisheni ya Utalii,Kamisheni ya Utalii,1,27,1
+58,Wakala wa Mkonga wa Mawasiliano,Wakala wa Mkonga wa Mawasiliano,1,32,1
+59,Idara ya Utumishi na Uendeshaji,Idara ya Utumishi na Uendeshaji,0,33,1
+60,Bodi ya Mamlaka ya Mjimkongwe,Bodi ya Mamlaka ya Mjimkongwe,1,27,1
+61,Baraza la Kiswahili Zanzibar,Baraza la Kiswahili Zanzibar,1,26,1
+62,Bodi ya Mamlaa ya Bandari(ZMA),Bodi ya Mamlaa ya Bandari(ZMA),0,NULL,1
+63,"Bara la Sanaa,Sensa, Filamu na Utamaduni","Bara la Sanaa,Sensa, Filamu na Utamaduni",1,NULL,1
+64,Kampuni ya Uvuvi ya Zanzibar (ZAFICO),Kampuni ya Uvuvi ya Zanzibar (ZAFICO),1,33,1
+65,Baraza la Mji Wete,Baraza la Mji Wete,1,16,1
+66,Baraza la Watu Wenye Ulemavu,Baraza la Watu Wenye Ulemavu,1,5,1
+67,Kikosi cha Zimamoto na Uokozi,Kikosi cha Zimamoto na Uokozi,1,16,1
+68,Kampuni ya Maendeleo ya Mafuta na Gesi Asilia Zanzibar,Kampuni ya Maendeleo ya Mafuta na Gesi Asilia Zanzibar,1,33,1
+69,Kamisheni ya Wakfu na Mali ya Amana,Kamisheni ya Wakfu na Mali ya Amana,1,22,1
+70,Taasisi ya Elimu Zanzibar,Taasisi ya Elimu Zanzibar,1,19,1
+71,Ofisi ya Mthamini Mkuu wa Serikali,Ofisi ya Mthamini Mkuu wa Serikali,1,29,1
+72,Halmashauri ya Wilaya Kaskazini B,Halmashauri ya Wilaya Kaskazini B,1,16,1
+73,Bodi ya Nyaraka na Kumbukumbu za Kitaifa,Bodi ya Nyaraka na Kumbukumbu za Kitaifa,1,NULL,1
+74,Ofisi ya Kadhi,Ofisi ya Kadhi,1,NULL,1
+75,Ofisi ya Mkaguzi Mkuu wa Elimu,Ofisi ya Mkaguzi Mkuu wa Elimu,1,19,1
+76,Bodi ya Kamisheni ya Utalii,Bodi ya Kamisheni ya Utalii,1,27,1
+77,Bodi ya Mamlaka ya Bandari,Bodi ya Mamlaka ya Bandari,1,NULL,1
+78,"Baraza la Sanaa, Sensa, Filamu na Utamaduni(BASSFU)","Baraza la Sanaa, Sensa, Filamu na Utamaduni(BASSFU)",1,26,1
+79,Bodi ya Wakurugenzi ya Benki ya Watu wa Zanzibar,Bodi ya Wakurugenzi ya Benki ya Watu wa Zanzibar,1,23,1
+80,Bohari Kuu ya Dawa,Bohari Kuu ya Dawa,1,5,1
+81,Baraza la Chuo Kikuu cha Taifa cha Zanzibar(SUZA),Baraza la Chuo Kikuu cha Taifa cha Zanzibar(SUZA),1,19,1
+82,Jiji la Zanzibar,Jiji la Zanzibar,1,16,1
+83,Baraza la Chuo cha Kilimo Kizimbani,Baraza la Chuo cha Kilimo Kizimbani,1,NULL,1
+84,Bodi ya Usafiri wa Barabara,Bodi ya Usafiri wa Barabara,1,NULL,1
+85,Bodi ya Shirika la Biashara Zanzibar (ZSTC),Bodi ya Shirika la Biashara Zanzibar (ZSTC),1,28,1
+86,Ofisi ya Rais -Ushirikiano wa Kimataifa na Uratibu wa Wazanzibari wanaoishi Nchi za Nje (DIASPORA),Ofisi ya Rais -Ushirikiano wa Kimataifa na Uratibu wa Wazanzibari wanaoishi Nchi za Nje (DIASPORA),1,NULL,1
+87,Mkoa wa Mjini Magharibi,Mkoa wa Mjini Magharibi,1,16,1
+88,Wakala wa Usajili Biashara na Mali,Wakala wa Usajili Biashara na Mali,1,28,1
+89,Tume ya Taifa ya Kuratibu na Kudhibiti Madawa ya KulevyaA,Tume ya Taifa ya Kuratibu na Kudhibiti Madawa ya KulevyaA,0,NULL,1
+90,Baraza la Michezo (Body),Baraza la Michezo (Body),0,NULL,1
+91,Bodi ya Mamlaka ya Maendeleo ya Viwanda Vidogo Vidogo na vya Kati (SMIDA),Bodi ya Mamlaka ya Maendeleo ya Viwanda Vidogo Vidogo na vya Kati (SMIDA),1,NULL,1
+92,Wakala wa Serikali wa Uchapaji,Wakala wa Serikali wa Uchapaji,0,NULL,1
+93,Bodi ya Mamlaka ya Maji(ZAWA),Bodi ya Mamlaka ya Maji(ZAWA),1,1027,1
+94,Taasisi ya Viwango Zanzibar(ZBS),Taasisi ya Viwango Zanzibar(ZBS),1,28,1
+95,Tume ya Maadili ya Viongozi wa Umma,Tume ya Maadili ya Viongozi wa Umma,1,22,1
+96,Ofisi ya Msajili wa Ardhi,Ofisi ya Msajili wa Ardhi,1,NULL,1
+97,Taasisi ya Utafiti wa Mifugo (ZALIRI),Taasisi ya Utafiti wa Mifugo (ZALIRI),1,25,1
+98,Bodi ya Shirika la Umeme Zanzibar(ZECO),Bodi ya Shirika la Umeme Zanzibar(ZECO),1,24,1
+99,Mamlaka ya Kudhibiti Utafutaji na Uchimbaji wa Mafuta na Gesi Asilia,NULL,0,NULL,1
+100,Mkoa wa Kusini Unguja,Mkoa wa Kusini Unguja,1,16,1
+101,Shirika la Magazeti ya Serikali,Shirika la Magazeti ya Serikali,1,26,1
+102,Baraza la Wawakilishi,Baraza la Wawakilishi,1,2,1
+103,Bodi ya Ushauri wa Hospital Binafsi,Bodi ya Ushauri wa Hospital Binafsi,1,31,1
+104,Shirika la Meli,Shirika la Meli,1,32,1
+105,Ofisi ya Mufti Mkuu,Ofisi ya Mufti Mkuu,1,22,1
+106,Mamlaka ya Mafunzo ya Amali,Mamlaka ya Mafunzo ya Amali,1,19,1
+107,Tume ya Utumishii SerikaliniA,Tume ya Utumishii SerikaliniA,0,NULL,1
+108,Bodi ya Usimamizi wa Hakimiliki,Bodi ya Usimamizi wa Hakimiliki,1,NULL,1
+109,Tume ya Ushindani Halali wa Biashara na kumlinda Mtumiaji(ZFCC),Tume ya Ushindani Halali wa Biashara na kumlinda Mtumiaji(ZFCC),1,28,1
+110,Shirika la Biashara la Zanzibar(ZSTC),Shirika la Biashara la Zanzibar(ZSTC),1,28,1
+111,Tume ya Ukimwi,Tume ya Ukimwi,1,4,1
+112,Bodi ya Ushauri wa Wakala wa Mkonga wa Mawasiliano,Bodi ya Ushauri wa Wakala wa Mkonga wa Mawasiliano,1,NULL,1
+113,Bodi ya Wakala wa Chakula Dawa na Vipodozi,Bodi ya Wakala wa Chakula Dawa na Vipodozi,1,5,1
+114,Tume ya Uchaguzi,Tume ya Uchaguzi,1,2,1
+115,Tume ya Utumishi BLW,Tume ya Utumishi BLW,1,NULL,1
+116,Tume ya Taifa ya Kuratibu na Udhibiti wa Madawa ya Kulevya,Tume ya Taifa ya Kuratibu na Udhibiti wa Madawa ya Kulevya,1,NULL,1
+117,Shirika la Bandari,Shirika la Bandari,1,32,1
+118,Shirika la Nyumba,Shirika la Nyumba,1,29,1
+119,Tume ya Ukimwi,Tume ya Ukimwi,0,NULL,1
+120,Tume ya Ukimwi,Tume ya Ukimwi,0,NULL,1
+121,Baraza la Manispaa Maghrib A,Baraza la Manispaa Maghrib A,1,16,1
+122,Tume ya Utumishi wa Mahkama,Tume ya Utumishi wa Mahkama,1,22,1
+123,Mahkama Kuu,Mahkama Kuu,1,22,1
+124,Wakala wa Usajili wa Matukio ya KijamiiA,Wakala wa Usajili wa Matukio ya KijamiiA,0,NULL,1
+125,Bodi ya Ushauri ya Usajili wa Magazeti na Vijarida,Bodi ya Ushauri ya Usajili wa Magazeti na Vijarida,1,26,1
+126,Bodi ya Mamlaka ya Vitega Uchumi (ZIPA),Bodi ya Mamlaka ya Vitega Uchumi (ZIPA),1,21,1
+127,Bodi ya Uhaulishaji wa Ardhi,Bodi ya Uhaulishaji wa Ardhi,1,29,1
+128,Bodi ya Mfuko wa Barabara,Bodi ya Mfuko wa Barabara,1,23,1
+129,Bodi ya Kamisheni ya Wakfu na Mali ya Amana,Bodi ya Kamisheni ya Wakfu na Mali ya Amana,1,22,1
+130,Bodi ya Shirika la Meli,Bodi ya Shirika la Meli,1,32,1
+131,Bodi ya Ushauri ya Maabara ya Mkemia Mkuu wa Serikali,Bodi ya Ushauri ya Maabara ya Mkemia Mkuu wa Serikali,1,5,1
+132,Baraza la Watumiaji wa Huduma za Maji na Nishati,Baraza la Watumiaji wa Huduma za Maji na Nishati,1,NULL,1
+133,Halmashauri ya Wilaya ya Micheweni,Halmashauri ya Wilaya ya Micheweni,1,16,1
+134,Mkoa wa Kaskazini Pemba,Mkoa wa Kaskazini Pemba,1,16,1
+135,Baraza la Maafisa Afya,Baraza la Maafisa Afya,1,5,1
+136,Mrajis Mkuu wa Serikali,Mrajis Mkuu wa Serikali,1,NULL,1
+137,Wizara ya Katiba na Sheria,Tume ya Utumishi Serikalini,0,NULL,1
+138,Mamlaka ya Kuzuwia Rushwa na Uhujumu wa Uchumii,Mamlaka ya Kuzuwia Rushwa na Uhujumu wa Uchumii,1,22,1
+139,Bodi ya Mikopo Zanzibar,Bodi ya Mikopo Zanzibar,0,NULL,1
+140,Bodi ya Mapato Zanzibar (ZRB),Bodi ya Mapato Zanzibar (ZRB),1,23,1
+141,Mfuko wa Barabara,Mfuko wa Barabara,1,23,1
+142,Bodi ya Ushauri wa Hospitali ya Mnazi Mmoja,Bodi ya Ushauri wa Hospitali ya Mnazi Mmoja,1,5,1
+143,Bodi ya Shirika la Huduma za Maktaba,Bodi ya Shirika la Huduma za Maktaba,1,NULL,1
+144,Tume ya Ukimwi(Bodi),Tume ya Ukimwi(Bodi),0,NULL,1
+145,Bodi ya Taasisi ya Utafiti wa Masuala ya Afya,Bodi ya Taasisi ya Utafiti wa Masuala ya Afya,1,31,1
+146,Tume ya Utumishi wa Idara Maalum za SMZ,Tume ya Utumishi wa Idara Maalum za SMZ,1,16,1
+147,Tume ya Mipango,Tume ya Mipango,0,NULL,1
+148,Benki ya Watu wa Zanzibar(PBZ),Benki ya Watu wa Zanzibar(PBZ),1,23,1
+149,Tume ya Utumishi wa Mahkama,Tume ya Utumishi wa Mahkama,1,22,1
+150,Baraza la Manispaa Maghrib B,Baraza la Manispaa Maghrib B,1,16,1
+151,Bodi ya Mahkama ya Nyumba,Bodi ya Mahkama ya Nyumba,1,NULL,1
+152,Bodi ya Mamlaka ya Udhibiti wa Huduma za Maji na Nishati(ZURA),Bodi ya Mamlaka ya Udhibiti wa Huduma za Maji na Nishati(ZURA),1,24,1
+153,"Mamlaka ya Udhibiti,Utafutaji na Uchimbaji wa Mafuta na Gesi Asilia ","Mamlaka ya Udhibiti,Utafutaji na Uchimbaji wa Mafuta na Gesi Asilia ",1,33,1
+154,Baraza la Ushauri la Afya ya Jamii na Mazingira,Baraza la Ushauri la Afya ya Jamii na Mazingira,1,5,1
+155,Mamlaka ya Viwanja vya Ndege(ZAA),Mamlaka ya Viwanja vya Ndege(ZAA),1,32,1
+156,Mamlaka ya Udhibiti wa Huduma za Maji na Nishati (ZURA),Mamlaka ya Udhibiti wa Huduma za Maji na Nishati (ZURA),1,24,1
+157,Bodi ya Usajili wa  Wakandarasi,Bodi ya Usajili wa  Wakandarasi,1,29,1
+158,Halmashauri ya Wilaya ya Kusini,Halmashauri ya Wilaya ya Kusini,1,16,1
+159,Bodi ya Kamisheni ya Ardhi,Bodi ya Kamisheni ya Ardhi,1,29,1
+160,"Bodi ya Usajili Wasanifu, Wahandisi na Wakadiriaji Majengo","Bodi ya Usajili Wasanifu, Wahandisi na Wakadiriaji Majengo",1,29,1
+161,Bodi ya Wakurugenzi ya Mamlaka ya Vianja vya Ndege Zanzibar,Bodi ya Wakurugenzi ya Mamlaka ya Vianja vya Ndege Zanzibar,1,32,1
+162,Baraza la Chuo cha Utumishi wa Umma(IPA),Baraza la Chuo cha Utumishi wa Umma(IPA),1,22,1
+163,Halmashauri ya Wilaya Kaskazini A,Halmashauri ya Wilaya Kaskazini A,1,16,1
+164,Chuo cha Kilimo Kizimbani,Chuo cha Kilimo Kizimbani,1,NULL,1
+165,Taasisi ya Makumbusho na Mambo ya Kale,Taasisi ya Makumbusho na Mambo ya Kale,1,27,1
+166,Afisi ya Msajili wa Hakimiliki,Afisi ya Msajili wa Hakimiliki,1,26,1
+167,Taasisi ya Utafiti wa Masuala ya Afya,Taasisi ya Utafiti wa Masuala ya Afya,1,5,1
+168,Tume ya Utumishi ya Idara Maalum za SMZ,Tume ya Utumishi ya Idara Maalum za SMZ,1,16,1
+169,Bodi ya Huduma za Maktaba,Bodi ya Huduma za Maktaba,1,19,1
+170,Wakala wa Usajili Biashara na Mali,Wakala wa Usajili Biashara na Mali,0,28,1
+171,Ofisi ya Mtakwimu Mkuu wa Serikali,Ofisi ya Mtakwimu Mkuu wa Serikali,1,23,1
+172,Ofisi ya Baraza la Mapinduzi,Ofisi ya Baraza la Mapinduzi,1,17,1
+173,Kamisheni ya Ardhi,Kamisheni ya Ardhi,1,29,1
+174,Mamlaka ya Kupambana  na Kudhibiti Madawa ya Kulevya,Mamlaka ya Kupambana  na Kudhibiti Madawa ya Kulevya,1,4,1
+175,Mamlaka ya Uhifadhi na Uendeshaji wa Mji Mkongwe (STCDA),Mamlaka ya Uhifadhi na Uendeshaji wa Mji Mkongwe (STCDA),1,27,1
+176,Mfuko Mkuu wa Serikali Zanzibar,Mfuko Mkuu wa Serikali Zanzibar,1,NULL,1
+177,Baraza la Mji Chake Chake,Baraza la Mji Chake Chake,1,16,1
+178,Baraza la Tiba Asili na Tiba Mbadala,Baraza la Tiba Asili na Tiba Mbadala,1,5,1
+179,Mamlaka ya Ununuzi na Uondoshaji wa Mali za Serikali(ZPPDA),Mamlaka ya Ununuzi na Uondoshaji wa Mali za Serikali(ZPPDA),1,23,1
+180,Afisi ya Mkurugenzi wa Mashtaka,Afisi ya Mkurugenzi wa Mashtaka,0,NULL,1
+181,Bodi ya Ushauri ya Taasisi ya Utafiti wa Mifugo,Bodi ya Ushauri ya Taasisi ya Utafiti wa Mifugo,1,NULL,1
+182,Mamlaka ya Usimamizi wa Mazingira,Mamlaka ya Usimamizi wa Mazingira,1,4,1
+183,Bodi ya Ushauri ya Taasisi ya Elimu Zanzibar,Bodi ya Ushauri ya Taasisi ya Elimu Zanzibar,1,19,1
+184,Bodi ya Wakurugenzi wa Kampuni ya Maendeleo ya Mafuta na Gesi Asilia,Bodi ya Wakurugenzi wa Kampuni ya Maendeleo ya Mafuta na Gesi Asilia,1,NULL,1
+185,Bodi ya Wakandarasi,Bodi ya Wakandarasi,1,29,1
+186,Bodi ya Usalama wa Barabara,Bodi ya Usalama wa Barabara,1,NULL,1
+187,Kikosi Maalum cha Kuzuia Magendo,Kikosi Maalum cha Kuzuia Magendo,1,16,1
+188,Chuo cha Uandishi wa Habari,Chuo cha Uandishi wa Habari,0,26,1
+189,Afisi ya Mtakwimu Mkuu wa SMZ,Afisi ya Mtakwimu Mkuu wa SMZ,0,23,1
+190,Ofisi ya Mwanasheria Mkuu wa Serikali Zanzibar,Ofisi ya Mwanasheria Mkuu wa Serikali Zanzibar,1,22,1
+191,Baraza la Manispaa Mjini,Baraza la Manispaa Mjini,1,16,1
+192,Bodi ya Kondominio,Bodi ya Kondominio,1,29,1
+193,Baraza la Taifa la Michezo Zanzibar,Baraza la Taifa la Michezo Zanzibar,0,NULL,1
+194,Mkoa wa Kusini Pemba,Mkoa wa Kusini Pemba,1,16,1
+195,Mkoa wa Kaskazini Unguja,Mkoa wa Kaskazini Unguja,1,16,1
+196,Kiwanda cha Makonyo,Kiwanda cha Makonyo,1,NULL,1
+197,Jeshi la Kujenga Uchumi(JKU),Jeshi la Kujenga Uchumi(JKU),1,16,1
+198,Shirika la Umeme Zanzibar (ZECO),Shirika la Umeme Zanzibar (ZECO),1,24,1
+199,Taasisi ya Nyaraka na Kumbukumbu Zanzibar,Taasisi ya Nyaraka na Kumbukumbu Zanzibar,1,17,1
+200,Wizara ya Utalii na Mambo ya Kale,Wizara ya Utalii na Mambo ya Kale,0,27,1
+201,Baraza la Mji  Kaskazini A,Baraza la Mji  Kaskazini A,1,16,1
+202,Baraza la Mji Kaskazini B,Baraza la Mji Kaskazini B,1,16,1
+203,Baraza la Manispaa Kati,Baraza la Manispaa Kati,1,16,1
+204,Mradi wa Huduma za jamii Mjini(ZUSP),Mradi wa Huduma za jamii Mjini(ZUSP),1,23,1
+205,Wakala wa Vipimo,Wakala wa Vipimo,1,28,1
+206,Kampuni ya Ujenzi ya Serikali,Kampuni ya Ujenzi ya Serikali,1,16,1
+207,Baraza la Kuwawakilisha Watumiaji wa Maji na Nishati,Baraza la Kuwawakilisha Watumiaji wa Maji na Nishati,1,24,1
+208,Wakala wa  Barabara,Wakala wa  Barabara,1,32,1
+209,Mamlaka ya Usafri na Usalama Barabarani,Mamlaka ya Usafri na Usalama Barabarani,1,32,1
+210,Mradi wa SWIOFISH,Mradi wa SWIOFISH,1,33,1
+211,Ofisi ya Mhasibu Mkuu wa Serikali,Ofisi ya Mhasibu Mkuu wa Serikali,1,23,1
+212,Mahkama ya Kadhi,Mahkama ya Kadhi,0,22,1
+213,Baraza la Mji Kati,Baraza la Mji Kati,1,16,1
+214,Bodi ya Wathamini Majengo,Bodi ya Wathamini Majengo,1,29,1
+215,Baraza la Jiji,Baraza la Jiji,1,16,1
+216,Wakala wa Karakana Kuu ya Magari Zanzibar,Wakala wa Karakana Kuu ya Magari Zanzibar,1,32,1
+217,Bodi ya Wathamini(VALUERS),Bodi ya Wathamini(VALUERS),1,29,1
+218,Wakala wa Serikali wa Uchapaji Zanzibar,Wakala wa Serikali wa Uchapaji Zanzibar,0,26,1
+219,Wakala wa Serikali wa Uchapaji Zanzibar,Wakala wa Serikali wa Uchapaji Zanzibar,1,26,1
+220,Idara ya Maendeleo ya Viwango,Idara  ya Maendeleo ya Viwango,1,28,1
+221,Wakala wa Uwezeshaji Uchumi Zanzibar,Wakala wa Uwezeshaji Uchumi Zanzibar,1,21,1
+222,Idara ya Habari na Mawasiliano,Idara ya Habari na Mawasiliano,1,26,1
+223,Bodi ya Wataalamu wa Maabara ya Tiba,Bodi ya Wataalamu wa Maabara ya Tiba,1,31,1
+224,Bodi ya Wakala ya Karakana Kuu ya Magari,Bodi ya Wakala ya Karakana Kuu ya Magari,1,32,1
+225,Bodi ya Ushauri ya Karakana Kuu ya Magari,Bodi ya Ushauri ya Karakana Kuu ya Magari,1,32,1
+226,Kituo cha covid-19 P/Mchangani,Kituo cha covid-19 P/Mchangani,1,5,1
+227,Kituo cha covid-19 Makunduchi,Kituo cha covid-19 Makunduchi,1,5,1
+228,Idara ya Maendeleo ya Mifugo,Idara ya Maendeleo ya Mifugo,1,25,1
+229,Bodi ya Mfuko wa Hifadhi ya jamii,Bodi ya Mfuko wa Hifadhi ya jamii,1,23,1
+230,"(OR) Katiba, Sheria, Utumishi na Utawala Bora","(OR) Katiba, Sheria, Utumishi na Utawala Bora",1,31,1
+231,Taasisi ya Karume ya Sayansi na Teknolojia (KIST),Taasisi ya Karume ya Sayansi na Teknolojia (KIST),1,19,1
+232,Mamlaka ya Mji Mkongwe Zanzibar,Mamlaka ya Mji Mkongwe Zanzibar,1,27,1
+233,Kampuni ya Uvuvi,Kampuni ya Uvuvi,1,33,1
+234,Wakala wa Serikali Mtandao,Wakala wa Serikali Mtandao,1,22,1
+235,Bodi ya Mishahara,Bodi ya Mishahara,1,21,1
+236,Ofisi Kuu Pemba-Kazi Uchumi na Uwekezaji,Ofisi Kuu Pemba-Kazi Uchumi na Uwekezaji,1,22,1
+237,Mahkama ya rufaa ya Idara Maalum za SMZ,Mahkama ya rufaa ya Idara Maalum za SMZ,1,16,1
+238,Skuli ya Sheria,Skuli ya Sheria,1,22,1
+239,Baraza la kusimamia mfumo wa utoaji wa leseni,Baraza la kusimamia mfumo wa utoaji wa leseni,1,28,1
+240,Ofisi kuu Pemba- Ofisi ya Makamo wa Kwanza wa Rais ,Ofisi kuu Pemba-Ofisi ya Makamo wa Kwanza wa Rais ,1,4,1
+241,Ofisi Kuu Pemba- Ofisi ya Makamo wa Pili,Ofisi Kuu Pemba- Ofisi ya Makamo wa Pili,1,2,1
+242,Ofisi Kuu Pemba-Uchumi wa Bluu na Uvuvi,Ofisi Kuu Pemba-Uchumi wa Bluu na Uvuvi,1,33,1
+243,Ofisi Kuu Pemba--Wizara Maji Nishati na Madijni,Ofisi Kuu Pemba--Wizara Maji Nishati na Madijni,1,24,1
+244,Mahkama ya Ardhi,Mahkama ya Ardhi,1,29,1
+245,Wakala wa Usajili wa Majengo,Wakala wa Usajili wa Majengo,0,29,1
+246,Ofisi Kuu Pemba -Wizara ya Ardhi na Maendelo ya Makazi,Ofisi Kuu Pemba -Wizara ya Ardhi na Maendelo ya Makazi,1,29,1
+247,Ofisi Kuu Pemba-Utalii na Mambo ya Kale,Ofisi Kuu Pemba-Utalii na Mambo ya Kale,1,27,1
+248,Ofisi kuu Pemba -Wizara ya Kilimo,Ofisi kuu Pemba -Wizara ya Kilimo,1,25,1
+249,Kamisheni ya Ushindani wa Biashara,Kamisheni ya Ushindani wa Biashara,1,28,1
+250,Ofisi Kuu Pemba-Wizara ya Biashara,Ofisi Kuu Pemba-Wizara ya Biashara,1,28,1
+251,Ofisi Kuu Pemba - Wizara ya Habari,Ofisi Kuu Pemba - Wizara ya Habari,1,26,1
+252,Mkemia Mkuu wa Maabara ya Serikali,Mkemia Mkuu wa Maabara ya Serikali,1,5,1
+253,Mfamasia Mkuu wa Serikali,Mfamasia Mkuu wa Serikali,1,5,1
+254,Maabara ya Taifa -Pemba,Maabara ya Taifa -Pemba,1,5,1
+255,Baraza la Wataalamu wa Maabara za Tiba,Baraza la Wataalamu wa Maabara za Tiba,1,5,1
+256,Baraza la Taifa la Wataalamu wa Afya ya Mazingira,Baraza la Taifa la Wataalamu wa Afya ya Mazingira,1,5,1
+257,Ofisi Kuu Pemba -Wizara ya Elimu,Ofisi Kuu Pemba -Wizara ya Elimu,1,19,1
+258,Ofisi Kuu Pemba - Wizara ya Mawasiliano,Ofisi Kuu Pemba - Wizara ya Mawasiliano,1,32,1
+259,Ofisi Kuu Pemba- TAWALA,Ofisi Kuu Pemba- TAWALA,1,16,1
+260,Wakala wa Ulinzi Kikosi Cha Ulinzi cha JKU,Wakala wa Ulinzi Kikosi Cha Ulinzi cha JKU,1,16,1
+261,Uratibu wa Tawala za Mikoa na Serikali za Mitaa,Uratibu wa Tawala za Mikoa na Serikali za Mitaa,1,16,1
+262,Jumuiya zisizo za Kiserikali,Jumuiya zisizo za Kiserikali,1,16,1
+263,"Ofisi Kuu Pemba - Katiba, Sheria  Utumishi na Utawala Bora","Ofisi Kuu Pemba - Katiba, Sheria  Utumishi na Utawala Bora",1,22,1
+264,Ofisi Kuu Pemba-Fedha na Mipango,Ofisi Kuu Pemba-Fedha na Mipango,1,23,1
+265,Afisi ya Uratibu wa Shughuli za SMZ - Dodoma,Afisi ya Uratibu wa Shughuli za SMZ - Dodoma,1,24,1
+266,Kiengo cha Pencheni,Kiengo cha Pencheni,1,23,1
+267,Idara ya Fedha za Nje,Idara ya Fedha za Nje,1,23,1
+268,Idara ya Ujenzi ,Idara ya Ujenzi ,1,17,1
+269,"Idara ya Mipango, Sera na Utafiti","Idara ya Mipango, Sera na Utafiti",1,2,1
+270,Idara ya Nishati na Madini,Idara ya Nishati na Madini,1,24,1
+271,Idara ya Upimaji na Ramani,Idara ya Upimaji na Ramani,1,29,1
+272,Wakala wa Miundombinu ya TEHAMA,Wakala wa Miundombinu ya TEHAMA,1,32,1
+273,Idara ya Ustawi wa Jamii,Idara ya Ustawi wa Jamii,1,31,1
+274,Baraza la Taifa la Watu Wenye Ulemavu,Baraza la Taifa la Watu Wenye Ulemavu,1,4,1
+275,Idara ya Ushirika,Idara ya Ushirika,1,21,1
+276,Mradi wa ZESTA,Mradi wa ZESTA,1,24,1
+277,Wakala wa Barabara,Wakala wa Barabara,1,32,1
+278,Bodi ya Vileo,Bodi ya Vileo,1,22,1
+279,Mradi wa BIGZ,Mradi wa BIGZ,1,23,1
+280,Baraza la Uongozi wa Kituo cha Mafunzo ya Sheria na Utafiti Zanzibar,Baraza la Uongozi wa Kituo cha Mafunzo ya Sheria na Utafiti Zanzibar,1,22,1
+281,Idara ya Mazingira,Idara ya Mazingira,1,4,1
+282,Wakala wa Maabara ya Mkemia Mkuu,Wakala wa Maabara ya Mkemia Mkuu,1,5,1
+283,Dar-es-Salaam,Dar-es-Salaam,0,23,1
+284,Idara ya Utawala Bora,Idara ya Utawala Bora,1,22,1
+285,Tume ya Utumishi ya Baraza la Wawakilishi,Tume ya Utumishi ya Baraza la Wawakilishi,1,2,1
+286,Idara ya Sherehe na Maadhimisho ya Kitaifa,Idara ya Sherehe na Maadhimisho ya Kitaifa,1,2,1
+287,Idara ya Uhifadhi wa Maeneo ya Baharini,Idara ya Uhifadhi wa Maeneo ya Baharini,1,33,1
+288,Idara ya Michezo,Idara ya Michezo,1,19,1
+289,Mfuko wa Maendeleo ya Jamii (TASSAF),Mfuko wa Maendeleo ya Jamii (TASSAF),1,2,1
+290,Idara ya Uwezeshaji,Idara ya Uwezeshaji,1,21,1
+291,Skuli ya Biashara,Skuli ya Biashara,1,19,1
+292,Skuli ya Kilimo,Skuli ya Kilimo,1,19,1
+293,Idara ya Kilimo,Idara ya Kilimo,1,25,1
+294,Idara ya Tiba,Idara ya Tiba,1,5,1
+295,"Idara ya Elimu, Msingi na Maandalizi","Idara ya Elimu, Msingi na Maandalizi",1,19,1
+296,PBZ Islamic Bank,PBZ Islamic Bank,1,23,1
+297,Elimu Mbadala na Watu  Wazima,Elimu Mbadala na Watu  Wazima,1,19,1
+298,Idara ya Kinga,Idara ya 'Kinga,1,31,1
+299,Vyama vya Wafanyakazi na Waajiri,Vyama vya Wafanyakazi na Waajiri,1,21,1
+300,Ofisi ya Uratibu wa Shughuli za SMZ - Dodoma,Ofisi ya Uratibu wa Shughuli za SMZ - Dodoma,1,2,1
+301,"Idara ya Mipango, Sera na Utafiti","Idara ya Mipango, Sera na Utafiti",1,25,1
+302,Kampuni ya Mwani,Kampuni ya Mwani,1,33,1
+303,Baraza la Udhibiti wa Mfumo wa Utoaji wa Leseni ,Baraza la Udhibiti wa Mfumo wa Utoaji wa Leseni ,1,30,1
+304,Mamlaka ya kukuza Uwekezaji Zanzibar,Mamlaka ya kukuza Uwekezaji Zanzibar,1,21,1
+305,Idara maalum za SMZ,Idara maalum za SMZ,1,16,1
+306,Tume ya Ukimwi,Tume ya Ukimwi,1,4,1
+307,Baraza la Ushindani Halali wa Biashara (ZFCT),Baraza la Ushindani Halali wa Biashara (ZFCT),1,30,1
+308,Kampuni ya Mwani,Kampuni ya Mwani,1,30,1
