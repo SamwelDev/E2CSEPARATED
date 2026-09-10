@@ -1,1 +1,6 @@
-<Solution />
+<Solution>
+  <Folder Name="/Src/" />
+  <Folder Name="/Src/Src.Resource/">
+    <Project Path="E2CSEPARATED.RESOURCES/E2CSEPARATED.RESOURCES.csproj" />
+  </Folder>
+</Solution>
